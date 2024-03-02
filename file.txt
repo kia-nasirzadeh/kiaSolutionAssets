@@ -1,8 +1,8 @@
 {
-  "x": "{
+  "x": {
     "name": "kia",
     "newid": 1020
-  }",
+  },
   "login": "lambda",
   "url": "https://api.github.com/users/lambda",
   "type": "User",
