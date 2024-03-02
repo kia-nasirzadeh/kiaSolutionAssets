@@ -1,6 +1,6 @@
 {
   "x": {
-    "name": "kkx",
+    "name": "kkppx",
     "newid": 1020
   },
   "login": "lambda",
